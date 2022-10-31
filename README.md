@@ -1,0 +1,2 @@
+# special-contract
+solidity tests
